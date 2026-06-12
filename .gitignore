@@ -1,0 +1,11 @@
+# Build artifacts and compiled outputs
+/build/
+/dist/
+
+# NetBeans private configurations
+/nbproject/private/
+
+# System specific files
+Thumbs.db
+.DS_Store
+*.class
